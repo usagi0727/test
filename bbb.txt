@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 5
 =======
 bbb_master3
@@ -7,3 +8,6 @@ bbb_master3
 =======
 
 >>>>>>> origin/master
+=======
+modified bbb.txt in branch1
+>>>>>>> branch1
