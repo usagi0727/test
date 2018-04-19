@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-5
-=======
-bbb_master3
-<<<<<<< HEAD
->>>>>>> master
-=======
-
->>>>>>> origin/master
-=======
-modified bbb.txt in branch1
->>>>>>> branch1
+bbb
