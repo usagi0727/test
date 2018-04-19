@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ccc
 ddd
 eee
+=======
+ccc
+>>>>>>> origin/master
