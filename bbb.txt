@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-5
-=======
-bbb_master3
->>>>>>> master
+modified bbb.txt in branch1
